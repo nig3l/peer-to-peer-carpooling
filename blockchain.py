@@ -3,7 +3,7 @@ import time
 import random
 import string
 
-
+#
 class Block:
     def __init__(self, index, transactions, timestamp, previous_hash, nonce=0):
         self.index = index

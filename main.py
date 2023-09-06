@@ -48,5 +48,5 @@ def start():
     show_balance(customer.balance, owner.balance)
 
 
-if __name__ == '__main__':
-    start()
+    # if __name__ == '__main__':
+start()
